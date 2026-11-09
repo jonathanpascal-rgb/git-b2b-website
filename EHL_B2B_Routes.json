@@ -1,0 +1,191 @@
+{
+  "project": "EHL Graduate & Executive Education B2B website",
+  "validated_on": "2026-11-02",
+  "active_navigation_contract": "Direct sibling HTML filename links. All current and future HTML files belong in one folder.",
+  "supersedes": "The earlier root-relative, extensionless route and subfolder delivery convention.",
+  "link_convention": "Use the exact HTML filename from this registry, without a leading slash, domain, subfolder or version number. Keep validated section fragments after the filename.",
+  "logo_href": "EHL_B2B_Homepage.html",
+  "future_page_rule": "All thirteen registered filenames are now delivered. Nine pages are minimal template shells. Keep their filenames and links unchanged when developing their content.",
+  "approval_rule": "The GO on 3 November 2026 authorizes the nine minimal template declinations. Further content and layout development follows the project validation workflow.",
+  "matrix_rule": "The four homepage challenge blocks retain their approved popins. Their service links use sibling HTML filenames. Discuss this challenge uses the contextual homepage demonstration form.",
+  "host_compatibility": "Each generated page includes a small base-URL guard for directory-style page URL normalization by a host. Keep all internal hrefs, including same-page fragments, prefixed with their HTML filename.",
+  "pages": [
+    {
+      "title": "Homepage",
+      "site_route_reference": "/",
+      "html_file": "EHL_B2B_Homepage.html",
+      "href": "EHL_B2B_Homepage.html",
+      "status": "delivered",
+      "content_level": "existing_full_page"
+    },
+    {
+      "title": "Consulting Services",
+      "site_route_reference": "/services/consulting",
+      "html_file": "EHL_B2B_Services-Consulting.html",
+      "href": "EHL_B2B_Services-Consulting.html",
+      "status": "delivered",
+      "content_level": "existing_full_page"
+    },
+    {
+      "title": "Education Services",
+      "site_route_reference": "/services/education",
+      "html_file": "EHL_B2B_Services-Education.html",
+      "href": "EHL_B2B_Services-Education.html",
+      "status": "delivered",
+      "content_level": "existing_full_page"
+    },
+    {
+      "title": "Hospitality Industry",
+      "site_route_reference": "/industries/hospitality",
+      "html_file": "EHL_B2B_Industry-Hospitality.html",
+      "href": "EHL_B2B_Industry-Hospitality.html",
+      "status": "delivered",
+      "content_level": "existing_full_page"
+    },
+    {
+      "title": "Education Industry",
+      "site_route_reference": "/industries/education",
+      "html_file": "EHL_B2B_Industry-Education.html",
+      "href": "EHL_B2B_Industry-Education.html",
+      "status": "delivered_minimal_template",
+      "content_level": "header_breadcrumb_title_footer",
+      "template_source": "EHL_B2B_Template.html",
+      "breadcrumb_section": "Industries",
+      "created_on": "2026-11-03"
+    },
+    {
+      "title": "Service Industries",
+      "site_route_reference": "/industries/service",
+      "html_file": "EHL_B2B_Industry-Service.html",
+      "href": "EHL_B2B_Industry-Service.html",
+      "status": "delivered_minimal_template",
+      "content_level": "header_breadcrumb_title_footer",
+      "template_source": "EHL_B2B_Template.html",
+      "breadcrumb_section": "Industries",
+      "created_on": "2026-11-03"
+    },
+    {
+      "title": "Public Sector, Governments & NGOs",
+      "site_route_reference": "/industries/public",
+      "html_file": "EHL_B2B_Industry-Public.html",
+      "href": "EHL_B2B_Industry-Public.html",
+      "status": "delivered_minimal_template",
+      "content_level": "header_breadcrumb_title_footer",
+      "template_source": "EHL_B2B_Template.html",
+      "breadcrumb_section": "Industries",
+      "created_on": "2026-11-03"
+    },
+    {
+      "title": "Hospitality & Service DNA",
+      "site_route_reference": "/teams/hospitality-service-dna",
+      "html_file": "EHL_B2B_Teams-Hospitality-Service-DNA.html",
+      "href": "EHL_B2B_Teams-Hospitality-Service-DNA.html",
+      "status": "delivered_minimal_template",
+      "content_level": "header_breadcrumb_title_footer",
+      "template_source": "EHL_B2B_Template.html",
+      "breadcrumb_section": "Our Teams",
+      "created_on": "2026-11-03"
+    },
+    {
+      "title": "Custom Executive Education",
+      "site_route_reference": "/teams/custom-executive-education",
+      "html_file": "EHL_B2B_Teams-Custom-Executive-Education.html",
+      "href": "EHL_B2B_Teams-Custom-Executive-Education.html",
+      "status": "delivered_minimal_template",
+      "content_level": "header_breadcrumb_title_footer",
+      "template_source": "EHL_B2B_Template.html",
+      "breadcrumb_section": "Our Teams",
+      "created_on": "2026-11-03"
+    },
+    {
+      "title": "Workshops & Seminars",
+      "site_route_reference": "/teams/workshop-seminars",
+      "html_file": "EHL_B2B_Teams-Workshop-Seminars.html",
+      "href": "EHL_B2B_Teams-Workshop-Seminars.html",
+      "status": "delivered_minimal_template",
+      "content_level": "header_breadcrumb_title_footer",
+      "template_source": "EHL_B2B_Template.html",
+      "breadcrumb_section": "Our Teams",
+      "created_on": "2026-11-03"
+    },
+    {
+      "title": "Study Tours",
+      "site_route_reference": "/teams/study-tours",
+      "html_file": "EHL_B2B_Teams-Study-Tours.html",
+      "href": "EHL_B2B_Teams-Study-Tours.html",
+      "status": "delivered_minimal_template",
+      "content_level": "header_breadcrumb_title_footer",
+      "template_source": "EHL_B2B_Template.html",
+      "breadcrumb_section": "Our Teams",
+      "created_on": "2026-11-03"
+    },
+    {
+      "title": "Our Values",
+      "site_route_reference": "/about/values",
+      "html_file": "EHL_B2B_About-Values.html",
+      "href": "EHL_B2B_About-Values.html",
+      "status": "delivered_minimal_template",
+      "content_level": "header_breadcrumb_title_footer",
+      "template_source": "EHL_B2B_Template.html",
+      "breadcrumb_section": "About Us",
+      "created_on": "2026-11-03"
+    },
+    {
+      "title": "Our Methodology",
+      "site_route_reference": "/about/methodology",
+      "html_file": "EHL_B2B_About-Methodology.html",
+      "href": "EHL_B2B_About-Methodology.html",
+      "status": "delivered_minimal_template",
+      "content_level": "header_breadcrumb_title_footer",
+      "template_source": "EHL_B2B_Template.html",
+      "breadcrumb_section": "About Us",
+      "created_on": "2026-11-03"
+    }
+  ],
+  "navigation_aliases": {
+    "consulting": "EHL_B2B_Services-Consulting.html#services",
+    "service-design": "EHL_B2B_Services-Consulting.html#service-design",
+    "service-excellence": "EHL_B2B_Services-Consulting.html#service-excellence",
+    "service-leadership": "EHL_B2B_Services-Consulting.html#service-leadership",
+    "education": "EHL_B2B_Services-Education.html#services",
+    "custom": "EHL_B2B_Services-Education.html#custom-programs",
+    "custom-programs": "EHL_B2B_Services-Education.html#custom-programs",
+    "workshops": "EHL_B2B_Services-Education.html#workshops-seminars",
+    "study-tours": "EHL_B2B_Services-Education.html#study-tours",
+    "hospitality-industry": "EHL_B2B_Industry-Hospitality.html",
+    "hotels": "EHL_B2B_Industry-Hospitality.html#hotels",
+    "healthcare": "EHL_B2B_Industry-Hospitality.html#healthcare",
+    "transportation": "EHL_B2B_Industry-Hospitality.html#transportation",
+    "other-hospitality": "EHL_B2B_Industry-Hospitality.html#contact",
+    "education-industry": "EHL_B2B_Industry-Education.html",
+    "schools": "EHL_B2B_Industry-Education.html",
+    "service-industries": "EHL_B2B_Industry-Service.html",
+    "luxury": "EHL_B2B_Industry-Service.html",
+    "consulting-industry": "EHL_B2B_Industry-Service.html",
+    "finance": "EHL_B2B_Industry-Service.html",
+    "other-services": "EHL_B2B_Industry-Service.html",
+    "public": "EHL_B2B_Industry-Public.html",
+    "public-sector": "EHL_B2B_Industry-Public.html",
+    "team-hsdna": "EHL_B2B_Teams-Hospitality-Service-DNA.html",
+    "team-custom": "EHL_B2B_Teams-Custom-Executive-Education.html",
+    "team-workshops": "EHL_B2B_Teams-Workshop-Seminars.html",
+    "team-study": "EHL_B2B_Teams-Study-Tours.html",
+    "values": "EHL_B2B_About-Values.html",
+    "methodology": "EHL_B2B_About-Methodology.html",
+    "insights": "https://hospitalityinsights.ehl.edu/"
+  },
+  "external_insights": "https://hospitalityinsights.ehl.edu/",
+  "template_approval": {
+    "file": "EHL_B2B_Template.html",
+    "approved_on": "2026-11-03",
+    "scope": [
+      "header",
+      "breadcrumb",
+      "page_title",
+      "white_space",
+      "footer"
+    ],
+    "declinations_created": 9
+  },
+  "last_updated_on": "2026-11-03"
+}

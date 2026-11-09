@@ -1,0 +1,6 @@
+# Static EHL B2B prototype. All named HTML pages remain siblings.
+[build]
+  publish = "."
+
+[build.processing.html]
+  pretty_urls = false
